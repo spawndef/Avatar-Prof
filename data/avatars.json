@@ -1,0 +1,4266 @@
+{
+ "categories": {
+  "Enfants · Filles": "👧",
+  "Enfants · Garçons": "👦",
+  "Ados · Filles": "👧",
+  "Ados · Garçons": "🧑",
+  "Cartoons": "🎨",
+  "Animaux": "🐾",
+  "Animaux anthropomorphes": "🦊",
+  "Chats": "🐱",
+  "Chiens": "🐶",
+  "Robots": "🤖",
+  "Superhéros et supervilains": "🦸",
+  "Métiers": "🧰"
+ },
+ "avatars": [
+  {
+   "id": "11583a58",
+   "nom": "Adèle",
+   "categorie": "Enfants · Filles",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "12388949",
+   "nom": "Aglaé",
+   "categorie": "Enfants · Filles",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "88ea9854",
+   "nom": "Alix",
+   "categorie": "Enfants · Filles",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "0cf51c3d",
+   "nom": "Ava",
+   "categorie": "Enfants · Filles",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "59b359fa",
+   "nom": "Bérénice",
+   "categorie": "Enfants · Filles",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "55414213",
+   "nom": "Camille",
+   "categorie": "Enfants · Filles",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "0a283274",
+   "nom": "Capucine",
+   "categorie": "Enfants · Filles",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "95fcf54b",
+   "nom": "Elsa",
+   "categorie": "Enfants · Filles",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "71df478b",
+   "nom": "Faustine",
+   "categorie": "Enfants · Filles",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "ce92d466",
+   "nom": "Iris",
+   "categorie": "Enfants · Filles",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "e436ab1c",
+   "nom": "Laura",
+   "categorie": "Enfants · Filles",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "8909a983",
+   "nom": "Maëlle",
+   "categorie": "Enfants · Filles",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "11fdbf66",
+   "nom": "Ninon",
+   "categorie": "Enfants · Filles",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "ef9ffbe3",
+   "nom": "Olivia",
+   "categorie": "Enfants · Filles",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "3f3f2983",
+   "nom": "Pauline",
+   "categorie": "Enfants · Filles",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "3484f6af",
+   "nom": "Adam",
+   "categorie": "Enfants · Garçons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "64660d05",
+   "nom": "Aimé",
+   "categorie": "Enfants · Garçons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "5dba2adc",
+   "nom": "Alban",
+   "categorie": "Enfants · Garçons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "820dbfe2",
+   "nom": "Anatole",
+   "categorie": "Enfants · Garçons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "e61c2dae",
+   "nom": "Arsène",
+   "categorie": "Enfants · Garçons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "c13647c3",
+   "nom": "Clovis",
+   "categorie": "Enfants · Garçons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "a7ad3ecb",
+   "nom": "Elliot",
+   "categorie": "Enfants · Garçons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "b9bb4b6b",
+   "nom": "Ismaël",
+   "categorie": "Enfants · Garçons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "0db75cbb",
+   "nom": "Liam",
+   "categorie": "Enfants · Garçons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "10898947",
+   "nom": "Lucien",
+   "categorie": "Enfants · Garçons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "e5cbdebd",
+   "nom": "Marceau",
+   "categorie": "Enfants · Garçons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "74997e7d",
+   "nom": "Octave",
+   "categorie": "Enfants · Garçons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "2a759043",
+   "nom": "Simon",
+   "categorie": "Enfants · Garçons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "8e699ed6",
+   "nom": "Timothée",
+   "categorie": "Enfants · Garçons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "c843df7a",
+   "nom": "Yanis",
+   "categorie": "Enfants · Garçons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "f69bc074",
+   "nom": "Alice",
+   "categorie": "Ados · Filles",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "c0871100",
+   "nom": "Anaïs",
+   "categorie": "Ados · Filles",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "9e2401de",
+   "nom": "Annabelle",
+   "categorie": "Ados · Filles",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "3fc6f04f",
+   "nom": "Aurélie",
+   "categorie": "Ados · Filles",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "d0c3835e",
+   "nom": "Charlotte",
+   "categorie": "Ados · Filles",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "9c843c4a",
+   "nom": "Chloé",
+   "categorie": "Ados · Filles",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "155a6ee5",
+   "nom": "Coralie",
+   "categorie": "Ados · Filles",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "b9c01eec",
+   "nom": "Delphine",
+   "categorie": "Ados · Filles",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "c5dcc068",
+   "nom": "Élodie",
+   "categorie": "Ados · Filles",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "49a8996a",
+   "nom": "Emma",
+   "categorie": "Ados · Filles",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "2644f16b",
+   "nom": "Florence",
+   "categorie": "Ados · Filles",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "d3f9e3d5",
+   "nom": "Héloïse",
+   "categorie": "Ados · Filles",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "05276b52",
+   "nom": "Jeanne",
+   "categorie": "Ados · Filles",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "64f9b3d3",
+   "nom": "Juliette",
+   "categorie": "Ados · Filles",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "1bb6a97f",
+   "nom": "Léa",
+   "categorie": "Ados · Filles",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "14e8d73a",
+   "nom": "Léonie",
+   "categorie": "Ados · Filles",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "e3708a2b",
+   "nom": "Maïka",
+   "categorie": "Ados · Filles",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "b820aff2",
+   "nom": "Marilou",
+   "categorie": "Ados · Filles",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "182b9a78",
+   "nom": "Mathilde",
+   "categorie": "Ados · Filles",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "c61cbc9e",
+   "nom": "Noémie",
+   "categorie": "Ados · Filles",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "2b9327db",
+   "nom": "Ophélie",
+   "categorie": "Ados · Filles",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "039fb53c",
+   "nom": "Pénélope",
+   "categorie": "Ados · Filles",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "a9b91ef3",
+   "nom": "Sabrina",
+   "categorie": "Ados · Filles",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "5190a6c7",
+   "nom": "Sarah",
+   "categorie": "Ados · Filles",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "69c284eb",
+   "nom": "Zoé",
+   "categorie": "Ados · Filles",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "9ffed9c4",
+   "nom": "Alexandre",
+   "categorie": "Ados · Garçons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "f2d3b1a9",
+   "nom": "Alexis",
+   "categorie": "Ados · Garçons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "dbe18c24",
+   "nom": "Antoine",
+   "categorie": "Ados · Garçons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "b86886b8",
+   "nom": "Arthur",
+   "categorie": "Ados · Garçons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "8abcf5e3",
+   "nom": "Benjamin",
+   "categorie": "Ados · Garçons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "ae558ec8",
+   "nom": "Charles",
+   "categorie": "Ados · Garçons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "2f457eee",
+   "nom": "Émile",
+   "categorie": "Ados · Garçons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "155b1629",
+   "nom": "Étienne",
+   "categorie": "Ados · Garçons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "4534eec2",
+   "nom": "Florent",
+   "categorie": "Ados · Garçons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "d0f0656c",
+   "nom": "Gaël",
+   "categorie": "Ados · Garçons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "3c1d2b3c",
+   "nom": "Jérémie",
+   "categorie": "Ados · Garçons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "da3cdb09",
+   "nom": "Joachim",
+   "categorie": "Ados · Garçons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "f9621b20",
+   "nom": "Jonathan",
+   "categorie": "Ados · Garçons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "2401ec7b",
+   "nom": "Julien",
+   "categorie": "Ados · Garçons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "d224c35c",
+   "nom": "Justin",
+   "categorie": "Ados · Garçons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "ae83bf21",
+   "nom": "Logan",
+   "categorie": "Ados · Garçons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "c7683ba8",
+   "nom": "Loïc",
+   "categorie": "Ados · Garçons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "85772058",
+   "nom": "Louis",
+   "categorie": "Ados · Garçons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "86d9b9ed",
+   "nom": "Mathieu",
+   "categorie": "Ados · Garçons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "1e0ad56d",
+   "nom": "Nathan",
+   "categorie": "Ados · Garçons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "f290f08b",
+   "nom": "Nicolas",
+   "categorie": "Ados · Garçons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "1561e11a",
+   "nom": "Philémon",
+   "categorie": "Ados · Garçons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "ea77ed48",
+   "nom": "Quentin",
+   "categorie": "Ados · Garçons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "7fa7f705",
+   "nom": "Samuel",
+   "categorie": "Ados · Garçons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "9b37fac3",
+   "nom": "Victor",
+   "categorie": "Ados · Garçons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "c2042b26",
+   "nom": "Allôsette",
+   "categorie": "Cartoons",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "058b7992",
+   "nom": "Balayotron",
+   "categorie": "Cartoons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "fe13a0d8",
+   "nom": "Baratin",
+   "categorie": "Cartoons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "c1a5a5ff",
+   "nom": "Boulonnet",
+   "categorie": "Cartoons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "5de2f524",
+   "nom": "Bourgeon",
+   "categorie": "Cartoons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "5403b10d",
+   "nom": "Brouillou",
+   "categorie": "Cartoons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "db724eee",
+   "nom": "Capitaine Brume",
+   "categorie": "Cartoons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "a92878fa",
+   "nom": "Carréto",
+   "categorie": "Cartoons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "2a200331",
+   "nom": "Chef Boum",
+   "categorie": "Cartoons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "ec495629",
+   "nom": "Chromabot",
+   "categorie": "Cartoons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "749ceb1d",
+   "nom": "Cléophare",
+   "categorie": "Cartoons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "a63c3c2e",
+   "nom": "Décibelle",
+   "categorie": "Cartoons",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "e88bf0e9",
+   "nom": "Doucilia",
+   "categorie": "Cartoons",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "37f17d15",
+   "nom": "Excusôme",
+   "categorie": "Cartoons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "707a4e04",
+   "nom": "Filou Biscornu",
+   "categorie": "Cartoons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "fcc1fea7",
+   "nom": "Flambino",
+   "categorie": "Cartoons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "bf740590",
+   "nom": "Frisotine",
+   "categorie": "Cartoons",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "0f957d8e",
+   "nom": "Gélotin",
+   "categorie": "Cartoons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "d96a6740",
+   "nom": "Gouachette",
+   "categorie": "Cartoons",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "7191e9b5",
+   "nom": "Grumulus",
+   "categorie": "Cartoons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "8b0f8412",
+   "nom": "Lagard",
+   "categorie": "Cartoons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "952b2cf4",
+   "nom": "Lunelle",
+   "categorie": "Cartoons",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "d8c57c21",
+   "nom": "Madame Chut",
+   "categorie": "Cartoons",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "992dbab0",
+   "nom": "Mamie Biscuit",
+   "categorie": "Cartoons",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "cb9c7160",
+   "nom": "Minuit FM",
+   "categorie": "Cartoons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "2c782f67",
+   "nom": "Mirliton",
+   "categorie": "Cartoons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "7823140e",
+   "nom": "Mitonnette",
+   "categorie": "Cartoons",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "a45e665a",
+   "nom": "Mycélius",
+   "categorie": "Cartoons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "6c69c370",
+   "nom": "Nestorin",
+   "categorie": "Cartoons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "d8b8838a",
+   "nom": "Papi Pirouette",
+   "categorie": "Cartoons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "e7697d67",
+   "nom": "Patapomme",
+   "categorie": "Cartoons",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "4f84f8af",
+   "nom": "Pétillia",
+   "categorie": "Cartoons",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "03897c0b",
+   "nom": "Picotim",
+   "categorie": "Cartoons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "3402b0cc",
+   "nom": "Pincette",
+   "categorie": "Cartoons",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "d4fab22a",
+   "nom": "Pixelune",
+   "categorie": "Cartoons",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "470413f2",
+   "nom": "Plocotte",
+   "categorie": "Cartoons",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "2d89569b",
+   "nom": "Professeur Tic",
+   "categorie": "Cartoons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "058e1d90",
+   "nom": "Prudélie",
+   "categorie": "Cartoons",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "9c744189",
+   "nom": "Rayonnix",
+   "categorie": "Cartoons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "396c2c25",
+   "nom": "Rodéo Riton",
+   "categorie": "Cartoons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "48a1d00b",
+   "nom": "Ronchard",
+   "categorie": "Cartoons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "a0d8a64c",
+   "nom": "Rougino",
+   "categorie": "Cartoons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "4d3a837a",
+   "nom": "Roustix",
+   "categorie": "Cartoons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "1de00c17",
+   "nom": "Somnélune",
+   "categorie": "Cartoons",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "151d90fe",
+   "nom": "Sprintin",
+   "categorie": "Cartoons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "d610f6fe",
+   "nom": "Tamponnet",
+   "categorie": "Cartoons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "6c6d052b",
+   "nom": "Tantine Flash",
+   "categorie": "Cartoons",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "f6f9bcb2",
+   "nom": "Tempo Farfelu",
+   "categorie": "Cartoons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "783204ca",
+   "nom": "Zélotte",
+   "categorie": "Cartoons",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "8151ad65",
+   "nom": "Zigvolt",
+   "categorie": "Cartoons",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "5777d401",
+   "nom": "Agame barbu",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "8ce91fa9",
+   "nom": "Aigle royal",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "65dae68b",
+   "nom": "Alligator d'Amérique",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "af165054",
+   "nom": "Alpino",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "c33ce32e",
+   "nom": "Amiral",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "e1dfb61e",
+   "nom": "Anaconda vert",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "b140cf68",
+   "nom": "Autruche",
+   "categorie": "Animaux",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "c6432612",
+   "nom": "Axolotl",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "2e81be42",
+   "nom": "Babouin",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "fce60bd2",
+   "nom": "Baleine à bosse",
+   "categorie": "Animaux",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "22d45540",
+   "nom": "Balthazar",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "6b10be50",
+   "nom": "Bambou",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "2c526584",
+   "nom": "Bavardo",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "498562cc",
+   "nom": "Béluga",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "c9128dfe",
+   "nom": "Bernache du Canada",
+   "categorie": "Animaux",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "4a280b19",
+   "nom": "Biscotte",
+   "categorie": "Animaux",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "c1fb22d4",
+   "nom": "Bœuf musqué",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "238ded98",
+   "nom": "Bouboule",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "b66acf57",
+   "nom": "Cacatoès blanc",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "54a10b2d",
+   "nom": "Cachalot",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "edf7e1e0",
+   "nom": "Cadichon",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "4b76923b",
+   "nom": "Canari",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "4c199aa6",
+   "nom": "Caracal",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "cea7d353",
+   "nom": "Carcajou",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "54564c37",
+   "nom": "Cardinal rouge",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "20cd4520",
+   "nom": "Caribou",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "05ee8caf",
+   "nom": "Castor",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "f77f90af",
+   "nom": "Cerf de Virginie",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "0129316d",
+   "nom": "César",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "7bc0207b",
+   "nom": "Chameau de Bactriane",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "34fc4b4c",
+   "nom": "Chantecler",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "152c7410",
+   "nom": "Chapardeur",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "044b37a5",
+   "nom": "Chardonneret jaune",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "a3f656e4",
+   "nom": "Chimpanzé",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "59afbfab",
+   "nom": "Chinchilla",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "bcbc2fcd",
+   "nom": "Chouquette",
+   "categorie": "Animaux",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "fa3fadf0",
+   "nom": "Cobra royal",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "97e00ab9",
+   "nom": "Cocotte",
+   "categorie": "Animaux",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "5f5926bc",
+   "nom": "Coincoin",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "f314d2de",
+   "nom": "Crabe",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "13dae816",
+   "nom": "Crapaud d'Amérique",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "24b3bbad",
+   "nom": "Croâ",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "969a6c31",
+   "nom": "Crocodile du Nil",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "b8b1d132",
+   "nom": "Diable de Tasmanie",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "57a3176c",
+   "nom": "Diamant mandarin",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "01795e0f",
+   "nom": "Dindon sauvage",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "2f8b1619",
+   "nom": "Doyen",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "9707999f",
+   "nom": "Dragon de Komodo",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "3d675d65",
+   "nom": "Dromadaire",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "475ea880",
+   "nom": "Échidné",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "7e10e0a5",
+   "nom": "Écureuil gris",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "8cc535b9",
+   "nom": "Éléphant d'Afrique",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "eb886f03",
+   "nom": "Émeu",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "8405a6ca",
+   "nom": "Faucon pèlerin",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "31505c79",
+   "nom": "Fenrir",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "73155ed6",
+   "nom": "Flamant rose",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "9c9f6bfb",
+   "nom": "Flipper",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "06ae23df",
+   "nom": "Fourmilier géant",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "2871ec3b",
+   "nom": "Frange",
+   "categorie": "Animaux",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "a992d756",
+   "nom": "Fripon",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "1d2ba788",
+   "nom": "Gazelle de Thomson",
+   "categorie": "Animaux",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "3fa97e1c",
+   "nom": "Geai bleu",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "10f17984",
+   "nom": "Gekkō",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "f3982af9",
+   "nom": "Gerbille",
+   "categorie": "Animaux",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "c91ac018",
+   "nom": "Gertrude",
+   "categorie": "Animaux",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "3e6475e3",
+   "nom": "Girafe",
+   "categorie": "Animaux",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "bf928e34",
+   "nom": "Glaçon",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "f825e8f1",
+   "nom": "Gnou bleu",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "375d1e54",
+   "nom": "Grand héron",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "c8bcb410",
+   "nom": "Grand pic",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "d8f2c997",
+   "nom": "Grand requin blanc",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "c354b129",
+   "nom": "Grignotte",
+   "categorie": "Animaux",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "c4faf3b1",
+   "nom": "Grimoire",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "6eebd9b8",
+   "nom": "Grizzly",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "982193ed",
+   "nom": "Grouin",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "f17effb9",
+   "nom": "Guépard",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "cd40be25",
+   "nom": "Gustave",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "3b7b512f",
+   "nom": "Harfang des neiges",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "4ff3eeb1",
+   "nom": "Hermine",
+   "categorie": "Animaux",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "57e5266b",
+   "nom": "Hippocampe",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "b353a925",
+   "nom": "Hippopotame",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "f39c043f",
+   "nom": "Homard",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "9fe644be",
+   "nom": "Hulotte",
+   "categorie": "Animaux",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "9d1b0769",
+   "nom": "Hyène tachetée",
+   "categorie": "Animaux",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "21316211",
+   "nom": "Jaguar",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "5e47456a",
+   "nom": "Kangourou roux",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "27beb0cf",
+   "nom": "Kongo",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "1ff97674",
+   "nom": "Lama",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "43cc10a3",
+   "nom": "Léopard",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "b3fd18ed",
+   "nom": "Lièvre arctique",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "6cffd82c",
+   "nom": "Lion",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "4f0d7ef5",
+   "nom": "Lynx du Canada",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "6dd89494",
+   "nom": "Maki",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "1321c46e",
+   "nom": "Marmotte",
+   "categorie": "Animaux",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "8cd5907f",
+   "nom": "Martin-pêcheur d'Amérique",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "7250b4b1",
+   "nom": "Martre d'Amérique",
+   "categorie": "Animaux",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "eca4ce07",
+   "nom": "Merle d'Amérique",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "2bf66f22",
+   "nom": "Mésange à tête noire",
+   "categorie": "Animaux",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "d3956101",
+   "nom": "Mollo",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "07334de3",
+   "nom": "Moufette rayée",
+   "categorie": "Animaux",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "b910f8e2",
+   "nom": "Moustache",
+   "categorie": "Animaux",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "1d618a96",
+   "nom": "Moustique",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "c846bd41",
+   "nom": "Narval",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "02a86fb6",
+   "nom": "Nautile",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "d580a5ee",
+   "nom": "Nuage",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "4e65863b",
+   "nom": "Oasis",
+   "categorie": "Animaux",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "ccef9e1c",
+   "nom": "Octavius",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "2287992c",
+   "nom": "Octodon",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "cbf6227f",
+   "nom": "Orignal",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "6ab2d3d3",
+   "nom": "Ornithorynque",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "a8a488e4",
+   "nom": "Orque",
+   "categorie": "Animaux",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "9257d76b",
+   "nom": "Ours noir",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "0d92a514",
+   "nom": "Ours polaire",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "aa60f321",
+   "nom": "Pampa",
+   "categorie": "Animaux",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "d46ff72a",
+   "nom": "Panda roux",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "b75a17a2",
+   "nom": "Pangolin",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "936a367e",
+   "nom": "Paon bleu",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "f59ea7be",
+   "nom": "Papaye",
+   "categorie": "Animaux",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "b32459c0",
+   "nom": "Pélican blanc",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "05098b6f",
+   "nom": "Perruche ondulée",
+   "categorie": "Animaux",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "33f75db6",
+   "nom": "Piquant",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "760db5ce",
+   "nom": "Poisson-chirurgien bleu",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "2ee6a9dc",
+   "nom": "Poisson-clown",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "23b7a490",
+   "nom": "Porc-épic d'Amérique",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "c3c3e2e9",
+   "nom": "Poule blanche",
+   "categorie": "Animaux",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "93257e64",
+   "nom": "Prismo",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "8759231d",
+   "nom": "Puma",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "1a373029",
+   "nom": "Pygargue à tête blanche",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "611ac208",
+   "nom": "Python royal",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "50cf33a7",
+   "nom": "Quokka",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "ea433072",
+   "nom": "Rat domestique",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "a0b53493",
+   "nom": "Renard arctique",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "4ae2318e",
+   "nom": "Requin-marteau",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "22414ec5",
+   "nom": "Rhinocéros blanc",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "93cb587d",
+   "nom": "Roublard",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "5d9d6768",
+   "nom": "Roucou",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "7b87c68c",
+   "nom": "Salamandre tigrée",
+   "categorie": "Animaux",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "a6da1b8a",
+   "nom": "Serval",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "1954351d",
+   "nom": "Sirocco",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "bd85846a",
+   "nom": "Somno",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "3a839051",
+   "nom": "Souris domestique",
+   "categorie": "Animaux",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "6e6de5d8",
+   "nom": "Tamia rayé",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "a24730de",
+   "nom": "Tatou",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "cb2bfe14",
+   "nom": "Tigre",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "90ab2c46",
+   "nom": "Toco",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "acb20ba0",
+   "nom": "Trèfle",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "0134911f",
+   "nom": "Trompette",
+   "categorie": "Animaux",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "a77edaa2",
+   "nom": "Zèbre",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "cc9d33fe",
+   "nom": "Zigzag",
+   "categorie": "Animaux",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "a5904ded",
+   "nom": "Aéliane Crinièrefeu",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "55d68562",
+   "nom": "Aldren Crinièrefeu",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "787f5161",
+   "nom": "Bréva Queuecendre",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "2fd25065",
+   "nom": "Brevann Queuecendre",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "c81ad7ab",
+   "nom": "Caëlor Veloursbois",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "02a03635",
+   "nom": "Cassiane Veloursbois",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "0e64ed38",
+   "nom": "Délia Cornebleue",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "ccd33f12",
+   "nom": "Deryn Cornebleue",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "8c0f3be2",
+   "nom": "Éloane Écailleor",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "1281ad9a",
+   "nom": "Évran Écailleor",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "221be577",
+   "nom": "Falken Ramurevive",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "bdee8e04",
+   "nom": "Fiora Ramurevive",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "0354ff62",
+   "nom": "Gaëron Pattecobalt",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "922abf00",
+   "nom": "Gaïane Pattecobalt",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "471ef627",
+   "nom": "Haldric Poilécarlate",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "0c4ddaf5",
+   "nom": "Héliane Poilécarlate",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "dfe1cd87",
+   "nom": "Ilyane Duvetprisme",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "51a40702",
+   "nom": "Ilyor Duvetprisme",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "d2741e1d",
+   "nom": "Jorane Pelagecuivre",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "719af0cd",
+   "nom": "Jorven Pelagecuivre",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "c3e3a376",
+   "nom": "Kaëdan Flairbrume",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "90d52ecb",
+   "nom": "Kalyne Flairbrume",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "1ad85bd9",
+   "nom": "Léora Pennesoleil",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "b8f27e10",
+   "nom": "Léovir Pennesoleil",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "da95d64e",
+   "nom": "Maëron Sabotfer",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "9a2d7737",
+   "nom": "Maïwen Sabotfer",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "0bf747f4",
+   "nom": "Naëlor Colombor",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "e6139134",
+   "nom": "Naïria Colombor",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "026d31bb",
+   "nom": "Orélie Crocvif",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "2ba34ce4",
+   "nom": "Orvann Crocvif",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "3c584d42",
+   "nom": "Phaéna Moustachefer",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "3f45a320",
+   "nom": "Phaëron Moustachefer",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "448f9ce2",
+   "nom": "Quélia Pattebrune",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "7de2c64f",
+   "nom": "Quéran Pattebrune",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "2058644e",
+   "nom": "Rhaëlor Oreillevive",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "3bd9885c",
+   "nom": "Rhélia Oreillevive",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "820a4537",
+   "nom": "Saëlen Plumeambre",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "6cee7f2e",
+   "nom": "Saïna Plumeambre",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "273787ae",
+   "nom": "Thélia Griffeclaire",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "5919dad9",
+   "nom": "Thévor Griffeclaire",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "e43e6583",
+   "nom": "Uliane Fourrureor",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "47439317",
+   "nom": "Ulrican Fourrureor",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "f40f7bc2",
+   "nom": "Védran Truffelune",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "e55538bb",
+   "nom": "Vélya Truffelune",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "23cb87bd",
+   "nom": "Wylla Dentcuivre",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "824c1a26",
+   "nom": "Wyren Dentcuivre",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "94303cd3",
+   "nom": "Xaëlor Croclys",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "0c0d08ee",
+   "nom": "Xélia Croclys",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "aa0e787b",
+   "nom": "Yvane Becargent",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "e2aab507",
+   "nom": "Yvren Becargent",
+   "categorie": "Animaux anthropomorphes",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "1b7265a3",
+   "nom": "Arpège",
+   "categorie": "Chats",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "be13b9af",
+   "nom": "Baron",
+   "categorie": "Chats",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "d7748a1c",
+   "nom": "Berlioz",
+   "categorie": "Chats",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "44b413ea",
+   "nom": "Cajou",
+   "categorie": "Chats",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "7dc065a0",
+   "nom": "Chopin",
+   "categorie": "Chats",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "c856967d",
+   "nom": "Ébène",
+   "categorie": "Chats",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "3db537fe",
+   "nom": "Fidji",
+   "categorie": "Chats",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "417493d7",
+   "nom": "Kumquat",
+   "categorie": "Chats",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "0d29c364",
+   "nom": "Loustic",
+   "categorie": "Chats",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "650d15fa",
+   "nom": "Marquis",
+   "categorie": "Chats",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "ba15eb6c",
+   "nom": "Meringue",
+   "categorie": "Chats",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "3aa3b3c3",
+   "nom": "Mistral",
+   "categorie": "Chats",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "85f6d642",
+   "nom": "Nimbe",
+   "categorie": "Chats",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "70318bba",
+   "nom": "Nino",
+   "categorie": "Chats",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "74bea9c0",
+   "nom": "Nougat",
+   "categorie": "Chats",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "137e35d5",
+   "nom": "Opale",
+   "categorie": "Chats",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "04b64d1b",
+   "nom": "Ravel",
+   "categorie": "Chats",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "1e22bdec",
+   "nom": "Sablé",
+   "categorie": "Chats",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "672aecb6",
+   "nom": "Salem",
+   "categorie": "Chats",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "af2a6176",
+   "nom": "Satin",
+   "categorie": "Chats",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "992be2df",
+   "nom": "Sésame",
+   "categorie": "Chats",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "3f8541c7",
+   "nom": "Théodore",
+   "categorie": "Chats",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "75e7055a",
+   "nom": "Tiramisu",
+   "categorie": "Chats",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "7fd215c0",
+   "nom": "Vivaldi",
+   "categorie": "Chats",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "bc9f6e3c",
+   "nom": "Yuzu",
+   "categorie": "Chats",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "a1ed825e",
+   "nom": "Alfred",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "f859eb48",
+   "nom": "Archibald",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "172fd1ef",
+   "nom": "Argent",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "89ffb4ad",
+   "nom": "Balasko",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "12ed99e4",
+   "nom": "Balthus",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "ce10578b",
+   "nom": "Balzac",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "0f9db559",
+   "nom": "Bandito",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "3e328239",
+   "nom": "Barnabé",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "37df628e",
+   "nom": "Berlingot",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "3635b127",
+   "nom": "Blue",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "0969a9c9",
+   "nom": "Bowie",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "8a649d28",
+   "nom": "Bretzel",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "bbf8ac7d",
+   "nom": "Brutus",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "1cb52403",
+   "nom": "Caniche royal noir",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "22326385",
+   "nom": "Caramel",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "0e4aa67e",
+   "nom": "Charlie",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "dba11d56",
+   "nom": "Chaussette",
+   "categorie": "Chiens",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "ffc3be00",
+   "nom": "Chester",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "67ddc7bc",
+   "nom": "Churros",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "03a02bb4",
+   "nom": "Comète",
+   "categorie": "Chiens",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "400bd50d",
+   "nom": "Diesel",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "fac98c09",
+   "nom": "Django",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "55b8ff6d",
+   "nom": "Domino",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "5dc80982",
+   "nom": "Figaro",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "7b7d036b",
+   "nom": "Flocon",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "f6e3922d",
+   "nom": "Galileo",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "559f6227",
+   "nom": "Gaston",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "38a22b87",
+   "nom": "Gaufrette",
+   "categorie": "Chiens",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "75094055",
+   "nom": "Gizmo",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "546cb0c5",
+   "nom": "Goliath",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "e836a1ce",
+   "nom": "Gucci",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "98df75ba",
+   "nom": "Gus",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "39a6bc51",
+   "nom": "Hector",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "7a8399e9",
+   "nom": "Ibiza",
+   "categorie": "Chiens",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "2e8d05b6",
+   "nom": "Igloo",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "039c57ab",
+   "nom": "Jasper",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "1612539a",
+   "nom": "Léon",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "1efc9f02",
+   "nom": "Lucky",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "2c51802a",
+   "nom": "Moka",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "b0f836bc",
+   "nom": "Mozart",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "628c7395",
+   "nom": "Nestor",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "8814a6df",
+   "nom": "Newton",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "5ac65861",
+   "nom": "Nougatine",
+   "categorie": "Chiens",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "0b066ecf",
+   "nom": "Nounours",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "35a55935",
+   "nom": "Nox",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "08639534",
+   "nom": "Pablo",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "ae0d5c56",
+   "nom": "Paco",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "d8cd4e86",
+   "nom": "Patapouf",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "3e57e3a0",
+   "nom": "Pepper",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "566bba6f",
+   "nom": "Pistache",
+   "categorie": "Chiens",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "971c628a",
+   "nom": "Plume",
+   "categorie": "Chiens",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "d0dcbe60",
+   "nom": "Pompon",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "f29be3f6",
+   "nom": "Pongo",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "bcff6b6c",
+   "nom": "Praline",
+   "categorie": "Chiens",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "20028186",
+   "nom": "Puppy",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "9501b0e2",
+   "nom": "Ragnar",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "415b4a35",
+   "nom": "Ranger",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "5c7ca5b7",
+   "nom": "Rocky",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "d91df8b2",
+   "nom": "Romy",
+   "categorie": "Chiens",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "c4cc6632",
+   "nom": "Rufus",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "d783750d",
+   "nom": "Sherlock",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "dc9d51e4",
+   "nom": "Snoop",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "33445cf2",
+   "nom": "Socrate",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "e65df350",
+   "nom": "Sultan",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "0395a9de",
+   "nom": "Sushi",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "085a243c",
+   "nom": "Tchoupi",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "22ad347f",
+   "nom": "Tipsy",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "000dc04c",
+   "nom": "Titus",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "87b3fc48",
+   "nom": "Truffon",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "e712410d",
+   "nom": "Ulysse",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "22d3bbfc",
+   "nom": "Velours",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "aaaf1b69",
+   "nom": "Whisky",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "3f3e064d",
+   "nom": "Winston",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "7501107e",
+   "nom": "Yéti",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "42061346",
+   "nom": "Zéphyr",
+   "categorie": "Chiens",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "0180e775",
+   "nom": "Bathys",
+   "categorie": "Robots",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "1bc01114",
+   "nom": "Bibi",
+   "categorie": "Robots",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "2a3a07c7",
+   "nom": "Cathode",
+   "categorie": "Robots",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "a9edd49b",
+   "nom": "Cosmo",
+   "categorie": "Robots",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "a26061cb",
+   "nom": "Forge",
+   "categorie": "Robots",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "c8cdaf58",
+   "nom": "Lunor",
+   "categorie": "Robots",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "1c92ae6b",
+   "nom": "Mantis",
+   "categorie": "Robots",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "188b24a3",
+   "nom": "Marbre",
+   "categorie": "Robots",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "96d304c9",
+   "nom": "Matrice",
+   "categorie": "Robots",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "6175c0c1",
+   "nom": "Mercure",
+   "categorie": "Robots",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "06788827",
+   "nom": "Milo",
+   "categorie": "Robots",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "040e70c5",
+   "nom": "Mycel",
+   "categorie": "Robots",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "f9ddb83e",
+   "nom": "Nacre",
+   "categorie": "Robots",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "3796ddc7",
+   "nom": "Piko",
+   "categorie": "Robots",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "7a6396ac",
+   "nom": "Plis",
+   "categorie": "Robots",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "1c7e2fc0",
+   "nom": "Polaris",
+   "categorie": "Robots",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "f200014a",
+   "nom": "Prismeon",
+   "categorie": "Robots",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "d53e53e7",
+   "nom": "Rivet",
+   "categorie": "Robots",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "11ca6554",
+   "nom": "Ronin",
+   "categorie": "Robots",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "26ce6587",
+   "nom": "Salvia",
+   "categorie": "Robots",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "5b2f75d1",
+   "nom": "Strix",
+   "categorie": "Robots",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "0195d181",
+   "nom": "Suture",
+   "categorie": "Robots",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "3091a1b2",
+   "nom": "Sylvo",
+   "categorie": "Robots",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "7f6bca2d",
+   "nom": "Tempo",
+   "categorie": "Robots",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "98506525",
+   "nom": "Torque",
+   "categorie": "Robots",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "eda8fc10",
+   "nom": "Trame",
+   "categorie": "Robots",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "22afa916",
+   "nom": "Vanta",
+   "categorie": "Robots",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "c5d722de",
+   "nom": "Vitrail",
+   "categorie": "Robots",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "01411109",
+   "nom": "Volta",
+   "categorie": "Robots",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "9ab6ed75",
+   "nom": "Aéliane Cinétis",
+   "categorie": "Superhéros et supervilains",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "1b4b2340",
+   "nom": "Aldren Cinétis",
+   "categorie": "Superhéros et supervilains",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "647a52a7",
+   "nom": "Bréva Floracœur",
+   "categorie": "Superhéros et supervilains",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "f6518d95",
+   "nom": "Brevann Floracœur",
+   "categorie": "Superhéros et supervilains",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "66043045",
+   "nom": "Caëlor Phasélis",
+   "categorie": "Superhéros et supervilains",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "ef109131",
+   "nom": "Cassiane Phasélis",
+   "categorie": "Superhéros et supervilains",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "5c36122c",
+   "nom": "Délia Orbespace",
+   "categorie": "Superhéros et supervilains",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "55d299c3",
+   "nom": "Deryn Orbespace",
+   "categorie": "Superhéros et supervilains",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "4f4cbb46",
+   "nom": "Éloane Vitréon",
+   "categorie": "Superhéros et supervilains",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "54e85835",
+   "nom": "Évran Vitréon",
+   "categorie": "Superhéros et supervilains",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "1657ea20",
+   "nom": "Falken Impulsance",
+   "categorie": "Superhéros et supervilains",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "27e1ef31",
+   "nom": "Fiora Impulsance",
+   "categorie": "Superhéros et supervilains",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "e8cbedac",
+   "nom": "Gaëron Sylvorée",
+   "categorie": "Superhéros et supervilains",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "19c8a76e",
+   "nom": "Gaïane Sylvorée",
+   "categorie": "Superhéros et supervilains",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "71ce11d1",
+   "nom": "Haldric Mnémorys",
+   "categorie": "Superhéros et supervilains",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "d49f1f7f",
+   "nom": "Héliane Mnémorys",
+   "categorie": "Superhéros et supervilains",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "3008cbfa",
+   "nom": "Ilyane Onirance",
+   "categorie": "Superhéros et supervilains",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "db3cbdeb",
+   "nom": "Ilyor Onirance",
+   "categorie": "Superhéros et supervilains",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "6bc89f8d",
+   "nom": "Jorane Chitinor",
+   "categorie": "Superhéros et supervilains",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "fda523cf",
+   "nom": "Jorven Chitinor",
+   "categorie": "Superhéros et supervilains",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "1c50e952",
+   "nom": "Kaëdan Aquarion",
+   "categorie": "Superhéros et supervilains",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "003d5efb",
+   "nom": "Kalyne Aquarion",
+   "categorie": "Superhéros et supervilains",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "a45f0542",
+   "nom": "Léora Aurorève",
+   "categorie": "Superhéros et supervilains",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "5654650b",
+   "nom": "Léovir Aurorève",
+   "categorie": "Superhéros et supervilains",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "2cec7ce5",
+   "nom": "Maëron Volcanor",
+   "categorie": "Superhéros et supervilains",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "5a2ba1d7",
+   "nom": "Maïwen Volcanor",
+   "categorie": "Superhéros et supervilains",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "41530683",
+   "nom": "Naëlor Nébulis",
+   "categorie": "Superhéros et supervilains",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "3956995e",
+   "nom": "Naïria Nébulis",
+   "categorie": "Superhéros et supervilains",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "815683dd",
+   "nom": "Orélie Cristallance",
+   "categorie": "Superhéros et supervilains",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "848a14c0",
+   "nom": "Orvann Cristallance",
+   "categorie": "Superhéros et supervilains",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "6a7303bc",
+   "nom": "Phaéna Chronéor",
+   "categorie": "Superhéros et supervilains",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "7ee78ad9",
+   "nom": "Phaëron Chronéor",
+   "categorie": "Superhéros et supervilains",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "7153ff93",
+   "nom": "Quélia Quantélyse",
+   "categorie": "Superhéros et supervilains",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "71f5e806",
+   "nom": "Quéran Quantélyse",
+   "categorie": "Superhéros et supervilains",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "36ed38af",
+   "nom": "Rhaëlor Électryse",
+   "categorie": "Superhéros et supervilains",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "2126f56d",
+   "nom": "Rhélia Électryse",
+   "categorie": "Superhéros et supervilains",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "8ef6cc2f",
+   "nom": "Saëlen Gravelle",
+   "categorie": "Superhéros et supervilains",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "83541733",
+   "nom": "Saïna Gravelle",
+   "categorie": "Superhéros et supervilains",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "2c288089",
+   "nom": "Thélia Sonorys",
+   "categorie": "Superhéros et supervilains",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "ea17e1a8",
+   "nom": "Thévor Sonorys",
+   "categorie": "Superhéros et supervilains",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "82edac4f",
+   "nom": "Uliane Prismance",
+   "categorie": "Superhéros et supervilains",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "58ab78da",
+   "nom": "Ulrican Prismance",
+   "categorie": "Superhéros et supervilains",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "fbb376bc",
+   "nom": "Védran Magnétor",
+   "categorie": "Superhéros et supervilains",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "7e8faf25",
+   "nom": "Vélya Magnétor",
+   "categorie": "Superhéros et supervilains",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "7f085dd3",
+   "nom": "Wylla Héliandre",
+   "categorie": "Superhéros et supervilains",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "dff911d7",
+   "nom": "Wyren Héliandre",
+   "categorie": "Superhéros et supervilains",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "c30fba6d",
+   "nom": "Xaëlor Failleverre",
+   "categorie": "Superhéros et supervilains",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "89c7dda0",
+   "nom": "Xélia Failleverre",
+   "categorie": "Superhéros et supervilains",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "e6f72401",
+   "nom": "Yvane Maréonde",
+   "categorie": "Superhéros et supervilains",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "6568b56b",
+   "nom": "Yvren Maréonde",
+   "categorie": "Superhéros et supervilains",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "a24b7b1f",
+   "nom": "Adèle Dufour",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "5d020536",
+   "nom": "Adèle Gosselin",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "db8e453e",
+   "nom": "Adèle Thibault",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "2fbe95d7",
+   "nom": "Adrien Caron",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "c75b1bb9",
+   "nom": "Adrien Cloutier",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "0ebcaead",
+   "nom": "Adrien Ménard",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "4a743bcc",
+   "nom": "Ariane Ménard",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "875e656c",
+   "nom": "Ariane Paquette",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "e47ef3fd",
+   "nom": "Arthur Gosselin",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "033c332c",
+   "nom": "Arthur Thibault",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "80a4a678",
+   "nom": "Bastien Lapointe",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "8043cd15",
+   "nom": "Bastien Lefebvre",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "c251d8a5",
+   "nom": "Béatrice Fortier",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "7cfa107d",
+   "nom": "Béatrice Fournier",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "3558b479",
+   "nom": "Benoît Bertrand",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "905517a8",
+   "nom": "Benoît Fortier",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "ef27d55b",
+   "nom": "Benoît Paquette",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "39adac92",
+   "nom": "Brigitte Lapointe",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "1ee7cc9c",
+   "nom": "Brigitte Lefebvre",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "316e2b26",
+   "nom": "Brigitte Perron",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "e966a867",
+   "nom": "Camille Boucher",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "e80bb366",
+   "nom": "Camille Lemieux",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "8b686be8",
+   "nom": "Camille Lévesque",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "e8e8d66f",
+   "nom": "Catherine Lavoie",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "233427e9",
+   "nom": "Catherine Tessier",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "ede4388a",
+   "nom": "Cédric Boucher",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "1d8aa69c",
+   "nom": "Cédric Lévesque",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "7d309cb1",
+   "nom": "Clément Fournier",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "55392097",
+   "nom": "Clément Lavoie",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "a513daee",
+   "nom": "Clément Rousseau",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "bd27007b",
+   "nom": "Damien Dumont",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "7f12a024",
+   "nom": "Damien Girard",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "849257a8",
+   "nom": "Damien Tessier",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "b7a3d481",
+   "nom": "Daphné Denis",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "ad53e3a0",
+   "nom": "Daphné Nadeau",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "15b79110",
+   "nom": "Daphné Pelletier",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "33f00b91",
+   "nom": "David Denis",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "8c8a1511",
+   "nom": "David Nadeau",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "b30022b7",
+   "nom": "Diane Dumont",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "23c355d2",
+   "nom": "Diane Lacroix",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "75417105",
+   "nom": "Édouard Lacroix",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "7c3a8347",
+   "nom": "Édouard Landry",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "6c3b17ad",
+   "nom": "Édouard Renaud",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "1db39cb8",
+   "nom": "Émilie Deschênes",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "63cb2a58",
+   "nom": "Émilie Morin",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "e8d80be4",
+   "nom": "Émilie Richard",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "bf3b48b2",
+   "nom": "Estelle Moreau",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "9cd1d46c",
+   "nom": "Estelle Renaud",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "f031c39e",
+   "nom": "Étienne Morin",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "1101ee8b",
+   "nom": "Étienne Richard",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "da6405eb",
+   "nom": "Fabien Charron",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "56c0cc7f",
+   "nom": "Fabien Moreau",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "3550ec10",
+   "nom": "Fabien Savard",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "b13f6982",
+   "nom": "Fabienne Beaulieu",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "38777a2d",
+   "nom": "Fabienne Gagnon",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "ca1441c5",
+   "nom": "Fabienne Poulin",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "bf0bd831",
+   "nom": "Florence Bélanger",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "85c44e1b",
+   "nom": "Florence Charron",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "0d0b7037",
+   "nom": "Florian Gagnon",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "b0bf160f",
+   "nom": "Florian Poulin",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "a6359498",
+   "nom": "Gabriel Bélanger",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "224c4ba2",
+   "nom": "Gabriel Gervais",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "bf8d2519",
+   "nom": "Gabriel Mercier",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "ff80edce",
+   "nom": "Gabrielle Caron",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "9588ca7e",
+   "nom": "Gabrielle Cloutier",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "e9fe86aa",
+   "nom": "Gabrielle Hébert",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "15e36a47",
+   "nom": "Geneviève Gosselin",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "8ca505bf",
+   "nom": "Geneviève Mercier",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "d6b07a1d",
+   "nom": "Guillaume Caron",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "f6d7d45c",
+   "nom": "Guillaume Hébert",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "f9088757",
+   "nom": "Hélène Bertrand",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "fd72f88c",
+   "nom": "Hélène Ménard",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "25e6239c",
+   "nom": "Hélène Paquette",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "94d02ebf",
+   "nom": "Héloïse Dufour",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "2edb3331",
+   "nom": "Héloïse Lapointe",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "e365384f",
+   "nom": "Henri Dufour",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "9195d131",
+   "nom": "Henri Gosselin",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "24186112",
+   "nom": "Henri Thibault",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "6e3df692",
+   "nom": "Hubert Ménard",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "f586ee5c",
+   "nom": "Hubert Paquette",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "d0e4ca49",
+   "nom": "Irène Boucher",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "caefbd24",
+   "nom": "Irène Perron",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "d888d551",
+   "nom": "Isaac Lapointe",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "a197b225",
+   "nom": "Isaac Lefebvre",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "9947bef1",
+   "nom": "Isaac Perron",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "a541ec00",
+   "nom": "Isabelle Fortier",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "a612394e",
+   "nom": "Isabelle Fournier",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "7ff92faa",
+   "nom": "Isabelle Rousseau",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "52c1136e",
+   "nom": "Ivan Fortier",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "61bda47a",
+   "nom": "Ivan Fournier",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "d384875a",
+   "nom": "Jérôme Boucher",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "54f7109f",
+   "nom": "Jérôme Lemieux",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "18a2ccc8",
+   "nom": "Jérôme Lévesque",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "b939af5f",
+   "nom": "Josiane Girard",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "f0ec5899",
+   "nom": "Josiane Lavoie",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "ba306248",
+   "nom": "Josiane Tessier",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "be388b6e",
+   "nom": "Jules Lavoie",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "21afef45",
+   "nom": "Jules Tessier",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "907d77a1",
+   "nom": "Julie Denis",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "1fc1edfb",
+   "nom": "Julie Lemieux",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "be506e2a",
+   "nom": "Karine Dumont",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "0d732d27",
+   "nom": "Karine Lacroix",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "7db32868",
+   "nom": "Karine Landry",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "4fbad5c7",
+   "nom": "Katia Morin",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "8075cf71",
+   "nom": "Katia Pelletier",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "fd13459b",
+   "nom": "Kevin Dumont",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "847454d0",
+   "nom": "Kevin Lacroix",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "20d280cb",
+   "nom": "Laurence Moreau",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "e6aebdc4",
+   "nom": "Laurence Renaud",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "5a854a64",
+   "nom": "Laurence Savard",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "5ebe914a",
+   "nom": "Laurent Denis",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "7c1d26d7",
+   "nom": "Laurent Nadeau",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "6d079589",
+   "nom": "Laurent Pelletier",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "0781c3a9",
+   "nom": "Léa Deschênes",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "2b3a08b0",
+   "nom": "Léa Poulin",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "bf3b1484",
+   "nom": "Lionel Moreau",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "59f5d479",
+   "nom": "Lionel Renaud",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "e281a77b",
+   "nom": "Marianne Beaulieu",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "9d11bc61",
+   "nom": "Marianne Hébert",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "fd8e2c8d",
+   "nom": "Martin Bélanger",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "aa32838b",
+   "nom": "Martin Charron",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "9dbe0c39",
+   "nom": "Mélanie Bélanger",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "e80bf6bb",
+   "nom": "Mélanie Charron",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "8815591c",
+   "nom": "Mélanie Gervais",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "88a4d7a6",
+   "nom": "Michaël Deschênes",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "916d15c0",
+   "nom": "Michaël Morin",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "ee0a1c66",
+   "nom": "Michaël Richard",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "10a2c42b",
+   "nom": "Nadine Gosselin",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "6d996b41",
+   "nom": "Nadine Mercier",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "205fa47a",
+   "nom": "Nadine Thibault",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "c59119de",
+   "nom": "Nathalie Cloutier",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "bbd68d3e",
+   "nom": "Nathalie Ménard",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "7e63ed74",
+   "nom": "Noël Gosselin",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "bc019fe6",
+   "nom": "Noël Mercier",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "1b3c933d",
+   "nom": "Océane Bertrand",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "04d51c3b",
+   "nom": "Océane Fortier",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "b76c4229",
+   "nom": "Olivia Dufour",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "6b003171",
+   "nom": "Olivia Lapointe",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "cef87621",
+   "nom": "Olivia Lefebvre",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "eb73dd93",
+   "nom": "Olivier Beaulieu",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "f3a39d7d",
+   "nom": "Olivier Gagnon",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "272e5af7",
+   "nom": "Olivier Poulin",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "564f4c43",
+   "nom": "Oscar Dufour",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "c8d100a7",
+   "nom": "Oscar Lapointe",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "455a81bb",
+   "nom": "Pascale Boucher",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "fe5a459e",
+   "nom": "Pascale Lévesque",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "7e17930f",
+   "nom": "Pascale Perron",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "52def19f",
+   "nom": "Patrice Caron",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "897c41a0",
+   "nom": "Patrice Cloutier",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "cd201455",
+   "nom": "Patrice Hébert",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "55b12998",
+   "nom": "Pauline Lavoie",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "84a0e0d3",
+   "nom": "Pauline Rousseau",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "d8a38ae5",
+   "nom": "Pierre Boucher",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "31f5f302",
+   "nom": "Pierre Perron",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "392b101a",
+   "nom": "Quentin Denis",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "130e52b1",
+   "nom": "Quentin Lemieux",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "4536bde4",
+   "nom": "Rachel Denis",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "32160b93",
+   "nom": "Rachel Lemieux",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "6ca641f5",
+   "nom": "Rachel Nadeau",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "48a6ee73",
+   "nom": "Raphaël Bertrand",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "f9a64e17",
+   "nom": "Raphaël Ménard",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "84bfea34",
+   "nom": "Raphaël Paquette",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "6cb72621",
+   "nom": "Rémi Morin",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "d2aa8ad6",
+   "nom": "Rémi Pelletier",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "f022f001",
+   "nom": "Rosalie Dumont",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "86c0d546",
+   "nom": "Rosalie Girard",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "f0dc656b",
+   "nom": "Sébastien Deschênes",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "5e238a2f",
+   "nom": "Sébastien Poulin",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "4225672d",
+   "nom": "Simon Fortier",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "63ca920b",
+   "nom": "Simon Fournier",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "8425c9a4",
+   "nom": "Simon Rousseau",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "1d621d78",
+   "nom": "Sophie Morin",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "fe53c1a0",
+   "nom": "Sophie Pelletier",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "a96289e5",
+   "nom": "Sophie Richard",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "4d63496a",
+   "nom": "Sylvie Landry",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "dd52cb1c",
+   "nom": "Sylvie Renaud",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "2abdc89f",
+   "nom": "Tatiana Charron",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "d4994dbe",
+   "nom": "Tatiana Savard",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "4fde6226",
+   "nom": "Thérèse Deschênes",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "d13ac537",
+   "nom": "Thérèse Gagnon",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "85b32db2",
+   "nom": "Thérèse Poulin",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "8d9ccc24",
+   "nom": "Thierry Girard",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "56667aff",
+   "nom": "Thierry Lavoie",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "46e0a450",
+   "nom": "Thierry Tessier",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "3274596f",
+   "nom": "Tristan Beaulieu",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "69e72da1",
+   "nom": "Tristan Hébert",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "c2217691",
+   "nom": "Valérie Beaulieu",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "37e13ade",
+   "nom": "Valérie Caron",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "9e3804bc",
+   "nom": "Valérie Hébert",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "508448bd",
+   "nom": "Véronique Gervais",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "d9f0ea05",
+   "nom": "Véronique Mercier",
+   "categorie": "Métiers",
+   "voix": "Lady_Baguette"
+  },
+  {
+   "id": "ddcb5403",
+   "nom": "Vincent Dumont",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "362bcaf3",
+   "nom": "Vincent Lacroix",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "1a35ce53",
+   "nom": "Vincent Landry",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "32ac713c",
+   "nom": "Xavier Moreau",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "c3726d5f",
+   "nom": "Xavier Renaud",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "5b4ff44a",
+   "nom": "Xavier Savard",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "edc6d8cc",
+   "nom": "Yann Bélanger",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "a438c8b8",
+   "nom": "Yann Charron",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  },
+  {
+   "id": "b4cf22f5",
+   "nom": "Yann Gervais",
+   "categorie": "Métiers",
+   "voix": "CPT_Henri"
+  }
+ ]
+}

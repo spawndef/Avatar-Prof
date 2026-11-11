@@ -1,0 +1,147 @@
+{
+ "Compter": {
+  "truc": "Pointe chaque objet avec ton doigt, un à la fois, et dis un nombre à chaque objet : 1, 2, 3… Le dernier nombre que tu dis, c'est combien il y en a.",
+  "anim": "compter",
+  "exemple": "🍎🍎🍎"
+ },
+ "Addition": {
+  "truc": "Additionner, c'est mettre ensemble. Pars du plus grand nombre, puis avance d'un pas pour chaque objet que tu ajoutes."
+ },
+ "Soustraction": {
+  "truc": "Soustraire, c'est enlever. Pars du grand nombre et recule d'un pas pour chaque objet que tu enlèves. Ce qui reste, c'est la réponse."
+ },
+ "Plus grand": {
+  "truc": "Le plus grand nombre, c'est celui qui vient le plus loin quand on compte. Un nombre à deux chiffres, comme 10, est plus grand qu'un nombre à un seul chiffre."
+ },
+ "Suite de nombres": {
+  "truc": "Dans une suite, on avance toujours de la même façon. Regarde ce qui change d'un nombre à l'autre, puis fais pareil pour trouver le suivant."
+ },
+ "Formes": {
+  "truc": "Suis le bord de la forme avec ton doigt et compte chaque ligne droite. Un triangle a 3 côtés, un carré en a 4, un hexagone en a 6."
+ },
+ "Doubles": {
+  "truc": "Le double d'un nombre, c'est ce nombre deux fois. Le double de 3, c'est 3 + 3, donc 6."
+ },
+ "Dizaines et unités": {
+  "truc": "Une dizaine, c'est un paquet de 10. Quatre dizaines, c'est 40. On ajoute ensuite les unités : 4 dizaines et 2 unités, c'est 42."
+ },
+ "Addition et soustraction": {
+  "truc": "Place les nombres l'un sous l'autre : les unités sous les unités, les dizaines sous les dizaines. Calcule de droite à gauche, sans oublier les retenues en addition et les emprunts en soustraction."
+ },
+ "Tables": {
+  "truc": "Une multiplication, c'est une addition répétée : 3 × 4, c'est 4 + 4 + 4, donc 12. Pour une division, cherche dans la table quel nombre, multiplié par le diviseur, donne le grand nombre."
+ },
+ "Problème": {
+  "truc": "Lis le problème deux fois et trouve ce qu'on te demande. Puis choisis l'opération : on ajoute, on enlève, on fait des groupes égaux avec une multiplication, ou on partage avec une division."
+ },
+ "Périmètre et aire": {
+  "truc": "Le périmètre, c'est le tour de la forme : on additionne tous les côtés. L'aire, c'est la surface à l'intérieur : pour un rectangle, c'est la longueur fois la largeur."
+ },
+ "Multiplication et division": {
+  "truc": "Multiplie chiffre par chiffre en commençant par les unités, sans oublier les retenues. Pour vérifier une division, multiplie ta réponse par le diviseur : tu dois retrouver le grand nombre."
+ },
+ "Nombres décimaux": {
+  "truc": "Pour additionner ou soustraire des nombres à virgule, place les virgules l'une sous l'autre. Tu peux ajouter des zéros : 3,5, c'est pareil que 3,50."
+ },
+ "Fractions équivalentes": {
+  "truc": "Pour simplifier une fraction, divise le nombre du haut et celui du bas par le même nombre. 6 sur 8 devient 3 sur 4 quand on divise les deux par 2."
+ },
+ "Addition de fractions": {
+  "truc": "Pour additionner des fractions, il faut le même nombre en bas, le dénominateur. Ensuite, on additionne seulement les nombres du haut."
+ },
+ "Pourcentage": {
+  "truc": "Un pourcentage, c'est sur 100. 10 %, c'est un dixième : pour trouver 10 % de 50, on divise 50 par 10, et ça donne 5."
+ },
+ "Priorité des opérations": {
+  "truc": "On calcule toujours dans cet ordre : d'abord les parenthèses, puis les exposants, puis les multiplications et les divisions, et enfin les additions et les soustractions. Quand deux opérations sont du même niveau, on les fait de gauche à droite."
+ },
+ "Moyenne": {
+  "truc": "Pour trouver la moyenne, additionne toutes les valeurs, puis divise par le nombre de valeurs."
+ },
+ "Exposants": {
+  "truc": "L'exposant dit combien de fois on écrit le nombre dans la multiplication. 2 exposant 3, c'est 2 × 2 × 2, donc 8."
+ },
+ "Nombres entiers": {
+  "truc": "Imagine une droite des nombres. Ajouter, c'est avancer vers la droite ; soustraire, c'est reculer vers la gauche. Et soustraire un nombre négatif, c'est comme additionner."
+ },
+ "Proportionnalité": {
+  "truc": "Trouve d'abord la valeur pour 1, en divisant. Ensuite, multiplie par le nombre qu'on te demande."
+ },
+ "Expressions algébriques": {
+  "truc": "La lettre x remplace un nombre. Remplace x par sa valeur, puis calcule en respectant l'ordre des opérations."
+ },
+ "Cercle": {
+  "truc": "La circonférence, c'est le tour du cercle : 2 × pi × le rayon. L'aire du disque, c'est pi × le rayon × le rayon. On prend pi environ égal à 3,14."
+ },
+ "Probabilité": {
+  "truc": "Une probabilité, c'est le nombre de cas qu'on veut, divisé par le nombre total de cas possibles."
+ },
+ "Équations": {
+  "truc": "Une équation, c'est comme une balance : ce que tu fais d'un côté, fais-le aussi de l'autre. Isole le x petit à petit."
+ },
+ "Pythagore": {
+  "truc": "Dans un triangle rectangle, le carré du plus grand côté, l'hypoténuse, est égal à la somme des carrés des deux autres côtés : a² + b² = c²."
+ },
+ "Notation scientifique et racines": {
+  "truc": "La racine carrée d'un nombre, c'est le nombre qui, multiplié par lui-même, le donne : la racine de 25, c'est 5, car 5 × 5 = 25. En notation scientifique, on écrit un nombre entre 1 et 10, fois une puissance de 10."
+ },
+ "Fonction affine": {
+  "truc": "Dans y = ax + b, remplace x par sa valeur, multiplie par a, puis ajoute b. Attention aux signes négatifs !"
+ },
+ "Polynômes": {
+  "truc": "Pour développer deux parenthèses, multiplie chaque terme de la première par chaque terme de la deuxième, puis regroupe les termes semblables."
+ },
+ "Systèmes d'équations": {
+  "truc": "Isole une inconnue dans une des équations, puis remplace-la dans l'autre. Il ne te reste plus qu'une inconnue à trouver."
+ },
+ "Trigonométrie": {
+  "truc": "Dans un triangle rectangle : le sinus, c'est l'opposé divisé par l'hypoténuse ; le cosinus, l'adjacent divisé par l'hypoténuse ; la tangente, l'opposé divisé par l'adjacent."
+ },
+ "Second degré": {
+  "truc": "Pour résoudre une équation du second degré, essaie de la factoriser. Sinon, calcule le discriminant : b² − 4ac. S'il est positif ou nul, les solutions sont x = (−b ± √(b² − 4ac)) ÷ 2a ; s'il est négatif, il n'y a pas de solution réelle."
+ },
+ "Exponentielles et logarithmes": {
+  "truc": "Le logarithme répond à la question : à quelle puissance faut-il élever la base pour obtenir ce nombre ? Le logarithme en base 2 de 8, c'est 3, car 2³ = 8."
+ },
+ "Première lettre": {
+  "truc": "Dis le mot lentement et écoute le tout premier son. C'est souvent la première lettre du mot."
+ },
+ "Les lettres": {
+  "truc": "Écoute bien le nom de la lettre, puis cherche celle qui a cette forme."
+ },
+ "Syllabes": {
+  "truc": "Une syllabe, c'est un morceau de mot qu'on dit d'un seul coup de voix. Dis le mot lentement et tape dans tes mains à chaque morceau : chaque tape, c'est une syllabe.",
+  "anim": "syllabes",
+  "exemple": "pa-pil-lon"
+ },
+ "Rimes": {
+  "truc": "Deux mots riment quand ils finissent par le même son, comme lune et plume."
+ },
+ "Lire un mot": {
+  "truc": "Lis le mot son par son, lentement, puis dis-le en entier. Cherche ensuite l'image qui va avec."
+ },
+ "Majuscules et minuscules": {
+  "truc": "Chaque lettre a une grande forme, la majuscule, et une petite forme, la minuscule : A et a, B et b."
+ },
+ "Les sons": {
+  "truc": "Dis chaque mot à voix haute, lentement, et écoute si tu entends le son demandé."
+ },
+ "Conjugaison": {
+  "truc": "Le verbe change selon la personne, je, tu, il, nous… et selon le temps : présent, passé ou futur. Regarde bien le pronom et le temps demandés."
+ },
+ "Homophones": {
+  "truc": "Ces mots se prononcent pareil mais s'écrivent différemment. Le truc : remplace le mot par un autre. Par exemple, « a » peut se remplacer par « avait », et « est » par « était »."
+ },
+ "Pluriel des noms": {
+  "truc": "Au pluriel, on ajoute souvent un s. Mais presque tous les mots en eau, en au et en eu prennent un x, comme des bateaux (attention : des pneus, des bleus). Et beaucoup de mots en al deviennent aux, comme des chevaux."
+ },
+ "Classes de mots": {
+  "truc": "Le nom désigne une personne, un animal ou une chose. Le verbe dit ce qu'on fait. L'adjectif décrit le nom. Le déterminant se place devant le nom : le, une, mes…"
+ },
+ "Vocabulaire": {
+  "truc": "Un synonyme veut dire la même chose, comme content et heureux. Un antonyme veut dire le contraire, comme grand et petit."
+ },
+ "Participe passé": {
+  "truc": "Avec être, le participe passé s'accorde avec le sujet. Avec avoir, il s'accorde seulement avec le complément direct placé avant le verbe."
+ }
+}

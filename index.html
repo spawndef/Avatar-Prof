@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="fr-CA">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Avatar Prof</title>
+    <meta name="description" content="Révise et apprends en t'amusant, du primaire au secondaire, avec un prof avatar qui parle.">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎓</text></svg>">
+    <link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+    <header class="barre" id="barre" hidden>
+        <div class="marque">🎓 <span>Avatar Prof</span></div>
+        <button class="joueur" id="b-joueur" title="Ma progression"></button>
+        <div class="xp" id="xp" title="Expérience">
+            <div class="xp-niv" id="xp-niv">1</div>
+            <div class="xp-barre"><div class="xp-plein" id="xp-plein"></div></div>
+            <div class="xp-txt" id="xp-txt">0 XP</div>
+        </div>
+        <button class="rond" id="b-son" title="Son">🔊</button>
+        <button class="rond" id="b-parents" title="Coin des parents">👪</button>
+        <button class="rond" id="b-quitter" title="Changer de joueur">🚪</button>
+    </header>
+
+    <main class="page">
+        <aside class="scene" id="scene">
+            <div class="prof" id="prof"></div>
+            <div class="bulle vide" id="bulle"></div>
+            <button class="rejouer" id="b-redire" title="Réentendre">🔊 Réentendre</button>
+        </aside>
+        <section class="ecran" id="ecran" aria-live="polite"></section>
+    </main>
+
+    <div class="fete" id="fete" hidden></div>
+
+    <script src="js/prof.js"></script>
+    <script src="js/avatar.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>
